@@ -1,1 +1,2 @@
-# Pharmay-Management
+# Pharmacy-Management
+A Pharmacy Store Project Using Java Core....
